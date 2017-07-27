@@ -15,7 +15,7 @@ Note that you must have a RemGlk-enabled Z-code and Glulx interpreter installed 
 ## Usage
 In discord, type `>play game.z5`, where `game.z5` is any game file you previously put in the `games` dir. Send game commands like so: `>> take lantern`. If you need to input a space or other invisible character, use quotes: `>> " "`
 
-Note that the `>` command prefix can be modified. See `userConfig.js`.
+Note that the `>` command prefix can be modified. See `src/config.js`.
 
 ## Future development
 * Saving and loading
